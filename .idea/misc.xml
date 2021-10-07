@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Clarity/captionmatevoipprototype/app/src/main/res/layout/activity_custom_audio_device.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/Clarity/captionmatevoipprototype/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/Clarity/captionmatevoipprototype/app/src/main/res/layout/activity_voice.xml" value="0.48084291187739464" />
+        <entry key="..\:/Projects/Clarity/captionmatevoipprototype/app/src/main/res/layout/dialog_call.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/Clarity/captionmatevoipprototype/app/src/main/res/menu/menu.xml" value="1.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

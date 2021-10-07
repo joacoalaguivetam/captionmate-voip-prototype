@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "886924220305",
+    "firebase_url": "https://captionmate-dev.firebaseio.com",
+    "project_id": "captionmate-dev",
+    "storage_bucket": "captionmate-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886924220305:android:577d522d5f710c03",
+        "android_client_info": {
+          "package_name": "com.captionmate.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886924220305-b1ss680tvdsj9nk3tjikgtq21r7thgk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captionmate.app",
+            "certificate_hash": "e75b1da1eb5a951abec15c7e1cb359d9d0b0eaf7"
+          }
+        },
+        {
+          "client_id": "886924220305-iiteh2ui6gpds28nbf9bs1d2o2g9gr67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captionmate.app",
+            "certificate_hash": "18818dd7bc6fa1758aa23d56fab17d8ce657c367"
+          }
+        },
+        {
+          "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZHULC4QQPL-Sw3BtLGF3AMiIIpbNOj8"
+        },
+        {
+          "current_key": "AIzaSyDW6wvZYL5tB_IFwtz-xl65UiZcYqXOcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886924220305-3o49uq7ich65drqapgms55hcrlosch2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.captionmate.app",
+                "app_store_id": "1465233104"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886924220305:android:f4ed7ea660db182a",
+        "android_client_info": {
+          "package_name": "com.captionmate.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886924220305-37704ijlnnhsjilk9lkk1tpthvpnieod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captionmate.app.dev",
+            "certificate_hash": "e75b1da1eb5a951abec15c7e1cb359d9d0b0eaf7"
+          }
+        },
+        {
+          "client_id": "886924220305-p36juoreaorinnjen6h74onvqprongr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captionmate.app.dev",
+            "certificate_hash": "18818dd7bc6fa1758aa23d56fab17d8ce657c367"
+          }
+        },
+        {
+          "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZHULC4QQPL-Sw3BtLGF3AMiIIpbNOj8"
+        },
+        {
+          "current_key": "AIzaSyDW6wvZYL5tB_IFwtz-xl65UiZcYqXOcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886924220305-3o49uq7ich65drqapgms55hcrlosch2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.captionmate.app",
+                "app_store_id": "1465233104"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886924220305:android:aca420633643d4c4cdec30",
+        "android_client_info": {
+          "package_name": "com.captionmate.app.lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886924220305-9tdqfm1uh65jshjtbmp3gtd4dab7oubk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captionmate.app.lab",
+            "certificate_hash": "e75b1da1eb5a951abec15c7e1cb359d9d0b0eaf7"
+          }
+        },
+        {
+          "client_id": "886924220305-qu3b1sc9crf109lc8ujj7o66hq2fqns9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captionmate.app.lab",
+            "certificate_hash": "18818dd7bc6fa1758aa23d56fab17d8ce657c367"
+          }
+        },
+        {
+          "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZHULC4QQPL-Sw3BtLGF3AMiIIpbNOj8"
+        },
+        {
+          "current_key": "AIzaSyDW6wvZYL5tB_IFwtz-xl65UiZcYqXOcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886924220305-3o49uq7ich65drqapgms55hcrlosch2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.captionmate.app",
+                "app_store_id": "1465233104"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886924220305:android:3ef0bb0fccc4d89b",
+        "android_client_info": {
+          "package_name": "com.captionmate.app.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886924220305-d6onehspj4voh2gnn5q4dc58bv19l2et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captionmate.app.prod",
+            "certificate_hash": "18818dd7bc6fa1758aa23d56fab17d8ce657c367"
+          }
+        },
+        {
+          "client_id": "886924220305-noakr2scbndftdieqonko0f7v1ipl5bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.captionmate.app.prod",
+            "certificate_hash": "e75b1da1eb5a951abec15c7e1cb359d9d0b0eaf7"
+          }
+        },
+        {
+          "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZHULC4QQPL-Sw3BtLGF3AMiIIpbNOj8"
+        },
+        {
+          "current_key": "AIzaSyDW6wvZYL5tB_IFwtz-xl65UiZcYqXOcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886924220305-3o49uq7ich65drqapgms55hcrlosch2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.captionmate.app",
+                "app_store_id": "1465233104"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886924220305:android:bb7b51cb7924f4dbcdec30",
+        "android_client_info": {
+          "package_name": "com.tam.captionmate_voip_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZHULC4QQPL-Sw3BtLGF3AMiIIpbNOj8"
+        },
+        {
+          "current_key": "AIzaSyDW6wvZYL5tB_IFwtz-xl65UiZcYqXOcr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886924220305-ugcmedg6singtucmijfmgu6g9kbjh2sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "886924220305-3o49uq7ich65drqapgms55hcrlosch2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.captionmate.app",
+                "app_store_id": "1465233104"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
